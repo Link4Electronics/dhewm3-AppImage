@@ -13,7 +13,7 @@ export DESKTOP=/usr/share/applications/org.dhewm3.Dhewm3.desktop
 export DEPLOY_OPENGL=1
 
 # Deploy dependencies
-quick-sharun /usr/bin/dhewm3 /usr/lib/dhewm3/*
+quick-sharun /usr/bin/dhewm3 /usr/bin/dhewm3ded /usr/lib/dhewm3/*
 
 # Additional changes can be done in between here
 
