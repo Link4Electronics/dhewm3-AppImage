@@ -10,6 +10,7 @@ export ADD_HOOKS="self-updater.bg.hook"
 export UPINFO="gh-releases-zsync|${GITHUB_REPOSITORY%/*}|${GITHUB_REPOSITORY#*/}|latest|*$ARCH.AppImage.zsync"
 export ICON=/usr/share/icons/hicolor/scalable/apps/org.dhewm3.Dhewm3.svg
 export DESKTOP=/usr/share/applications/org.dhewm3.Dhewm3.desktop
+export STARTUPWMCLASS=dhewm3
 export DEPLOY_OPENGL=1
 
 # Deploy dependencies
